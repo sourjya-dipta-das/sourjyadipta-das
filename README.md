@@ -1,4 +1,5 @@
 # sourjyadipta-das
 This ia my first Repository
 <br>
-Author - Soujyadipta Das
+Author - Soujyadipta (das)
+
