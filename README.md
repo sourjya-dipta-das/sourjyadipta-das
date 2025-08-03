@@ -1,9 +1,12 @@
 
 
-preview
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sourjyadipta Das</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<img align="right" alt="coding"width="400 src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="coding"width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2IXnapfn7FmTyqyrYmdlHf&ust=1754290996173000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD3hK-J7o4DFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourjya-dipta-das&label=Profile%20views&color=0e75b6&style=flat" alt="sourjya-dipta-das" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
@@ -28,6 +31,8 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourjya-dipta-das&show_icons=true&locale=en" alt="sourjya-dipta-das" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourjya-dipta-das&" alt="sourjya-dipta-das" /></p>
+
+
 
 
 
